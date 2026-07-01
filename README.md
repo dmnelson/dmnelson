@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm David Nelson</h1>
-<h3 align="center">Fullstack engineer and engineering manager with a particular interest on AI/ML</h3>
 
 <p align="center">
   <a href="https://github.com/dmnelson">
